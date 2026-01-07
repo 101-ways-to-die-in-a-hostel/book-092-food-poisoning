@@ -11,7 +11,7 @@
   },
   "tagline": "Some hostels are a bargain. Others cost you your life.",
   "synopsis": {
-    "short": "",
+    "short": "A health-conscious fitness influencer dies from botulism contracted from contaminated eggs at the hostel's free breakfast buffet, served by a well-meaning but criminally negligent kitchen.",
     "long": ""
   },
   "death_type": "Food Poisoning",
@@ -29,5 +29,6 @@
     "google_play": "",
     "audible": "",
     "kobo": ""
-  }
+  },
+  "death_teaser": "The breakfast is included. So is the body bag."
 }
